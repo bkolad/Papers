@@ -1,3 +1,5 @@
 http://haslab.uminho.pt/jop/files/lpr07a.pdf
 
 http://lpdwww.epfl.ch/upload/documents/publications/neg--1184036295all.pdf
+
+https://www.researchgate.net/publication/228869608_A_secure_peer_sampling_service
